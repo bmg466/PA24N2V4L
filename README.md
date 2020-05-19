@@ -1,6 +1,6 @@
 # PA24N2V4L
 rev4.01
-FW for the TOF MPD AMPLIFIER bords
+FW for the TOF-MPD AMPLIFIER bords
 stm8lc8t6
 CREATED BY BMG
 EDITED BY BAS
