@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------------------------------
-//                                     AMPLIFIER FIRMARE TOF MPD 
+//                                     FW for the TOF-MPD AMPLIFIER boards
 //                                          CREATED BY BMG
 //                                           EDITED BY BAS
 // 06.02.2020 BMG 115200 baud at 16 MHz, GT ON, PT ON
